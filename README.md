@@ -26,7 +26,7 @@
  <div align="center">
     <a href="https://www.instagram.com/pedrokraemer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrokvmc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="Link linkedin" target="_blank"><img src="https://br.linkedin.com/in/pedro-kraemer-76b92716a?trk=people-guest_people_search-card" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/pedro-kraemer-76b92716a?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
